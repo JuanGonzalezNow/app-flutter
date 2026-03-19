@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Scaffold(body: Center(child: Text('noy y keren mis papis'))),
+      home: Scaffold(body: Center(child: Text('Juan y Angie x siempre'))),
     );
   }
 }
